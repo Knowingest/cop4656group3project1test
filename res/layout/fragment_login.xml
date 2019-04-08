@@ -29,4 +29,5 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="122dp"
         android:text="ToDo:  Add login with google buttons etc" />
+
 </RelativeLayout>

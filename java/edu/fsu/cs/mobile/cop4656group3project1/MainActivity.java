@@ -20,5 +20,6 @@ public class MainActivity extends AppCompatActivity {
         loginFragment = new LoginFragment();
         trans.add(R.id.main_container, loginFragment, "my_login_fragment");
         trans.commit();
+
     }
 }
